@@ -1,0 +1,12 @@
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\bin\Debug\Database\Database.mdf
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\bin\Debug\Database\Database_log.ldf
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\bin\Debug\JogoCacheta.exe.config
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\bin\Debug\JogoCacheta.exe
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\bin\Debug\JogoCacheta.pdb
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\obj\Debug\JogoCacheta.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\obj\Debug\JogoCacheta.Form1.resources
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\obj\Debug\JogoCacheta.Properties.Resources.resources
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\obj\Debug\JogoCacheta.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\obj\Debug\JogoCacheta.exe
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\obj\Debug\JogoCacheta.pdb
+C:\Users\Gustavo\source\repos\JogoCacheta\JogoCacheta\obj\Debug\JogoCacheta.UI.Form2.resources
